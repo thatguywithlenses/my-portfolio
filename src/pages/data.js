@@ -10,7 +10,7 @@ const data=[
                 name:'ReactJs'
             },
             {
-                name:'Chart.js'
+                name:'material-ui'
             },
             {
                 name:'Axios'
