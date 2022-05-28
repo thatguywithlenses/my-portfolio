@@ -325,16 +325,16 @@ a:hover{
   color: #0a192f;
   width: 90px;
   height: 40px;
-  font-size: large;
+  font-size: larger;
   font-weight: bolder;
   border-radius: 2px;
 }
 .pcgc{
   background-color: white;
   color: #0a192f;
-  width: 120px;
+  width: 150px;
   height: 40px;
-  font-size: large;
+  font-size: larger;
   font-weight: bolder;
   border-radius: 2px;
 }
