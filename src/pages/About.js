@@ -21,6 +21,7 @@ const About = () => {
           <li><SiJavascript size={45} /></li>
           <li><FaReact size={45} /></li>
           <li><SiCplusplus size={45} /></li>
+          <li>Problem Solving</li>
         </ul>
       </div>
 
