@@ -22,6 +22,7 @@ const About = () => {
           <li><FaReact size={45} /></li>
           <li><SiCplusplus size={45} /></li>
           <li className='pcg'>Problem Solving</li>
+          <li className='pcg'>Data Structures & Algorithms</li>
         </ul>
       </div>
 
