@@ -321,7 +321,7 @@ a:hover{
   
 }
 .pcg{
-  background-color: white;
+  background-color: rgb(168,168,168);
   color: #0a192f;
   width: 90px;
   height: 40px;
@@ -330,7 +330,7 @@ a:hover{
   border-radius: 2px;
 }
 .pcgc{
-  background-color: white;
+  background-color: rgb(168,168,168);
   color: #0a192f;
   width: 150px;
   height: 40px;
