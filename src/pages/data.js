@@ -4,7 +4,7 @@ const data=[
         desc:"it's a travel advisor web app which shows you real time restaurents, hotels and tourist attractions near you and wherever you want to visit on the real time map. Also it shows you their ratings, and contacts.",
         id:1,
         github:"https://github.com/thatguywithlenses/ghumai",
-        link:"/",
+        link:"",
         tech:[
             {
                 name:'ReactJs'
@@ -23,7 +23,7 @@ const data=[
         desc:"Built using React Js and Material ui by fetching data from MovieDB api with axios. It can show trending movies and series and we can search movies and get information like ratings etc about them",
         id:2,
         github:"https://github.com/thatguywithlenses/moviemania",
-        link:"/",
+        link:"",
         tech:[
             {
                 name:'ReactJs'
