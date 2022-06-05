@@ -8,7 +8,7 @@ const Footer = () => {
      <div>
       <ul className='bottom'>
           <li >
-            <a href='https://github.com/Siddhesh0002' ><FiGithub size={20} /></a></li>
+            <a href='https://github.com/thatguywithlenses' ><FiGithub size={20} /></a></li>
           <li >
             <a href='https://www.instagram.com/thatguywithlenses/'><FiInstagram size={20} /></a></li>
           <li ><a href='https://twitter.com/pawanguru011'><FiTwitter size={20} /></a></li>
